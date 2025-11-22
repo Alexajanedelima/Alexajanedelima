@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Alexa Jane De Lima! 
 
-<!--
-**Alexajanedelima/Alexajanedelima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Education  
+- *BS Computer Science*  
+  New Era University  
+  2024–Present  
 
-Here are some ideas to get you started:
+## Certification  
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ed50209058b74aea80bca24e5d20f7c0)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skill Sets  
+- *Programming:* Java, JavaScript, 
+- *Databases:* SQL  
+- *Tools:* Lucidchart, IntelliJ, HTML  
+
+## Let’s Connect!  
+- *Email:* alexajane.delima19@gmail.com 
+courses.cognitiveclass.ai
