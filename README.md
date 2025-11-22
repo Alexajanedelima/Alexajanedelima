@@ -15,4 +15,3 @@
 
 ## Let’s Connect!  
 - *Email:* alexajane.delima19@gmail.com 
-courses.cognitiveclass.ai
