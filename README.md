@@ -7,7 +7,8 @@ I'm a passionate **BS Computer Science** student who loves exploring technology,
   2024–Present  
 
 ## 📃 Certification  
-- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ed50209058b74aea80bca24e5d20f7c0)  
+- [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/ed50209058b74aea80bca24e5d20f7c0)
+- [OCI Foundations Associate (2025) ](https://catalog-education.oracle.com/pls/certview/sharebadge?id=9129454853FAF79301C801903F14DA1EAB4B3366FCB3ECD8BC2515277AA106F0)
 
 ## 🛠️ Skill Sets  
 - *Programming:* Java, JavaScript, 
