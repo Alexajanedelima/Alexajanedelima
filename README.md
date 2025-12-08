@@ -2,7 +2,7 @@
 I'm a passionate **BS Computer Science** student who loves exploring technology, solving problems, and continuously learning new skills. I enjoy working with code, creating projects, and gaining hands-on experience that helps me grow as a future developer.
 
 ## 🎓 Education  
-- *BS Computer Science*
+- **BS Computer Science**
   New Era University  
   2024–Present  
 
